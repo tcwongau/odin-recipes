@@ -1,0 +1,26 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.title {
+  background-color: #e3f4ff;
+  margin-bottom: 8px;
+  font-size: 16px;
+  padding: 8px;
+  text-align: center;
+}
+
+.table {
+  background-color: #85b448;
+  border: 5px solid red;
+  padding: 16px 8px;
+  margin-bottom: 8px;
+}
+
+.items {
+  background-color: #e3f4ff;
+  border: 5px solid rgb(65, 66, 156);
+  padding: 8px;
+  text-align: center;
+}
